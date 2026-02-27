@@ -8,7 +8,6 @@ The landing page demonstrates clean layout structuring, smooth animations, and c
 
 ## 🚀 Key Features  
 - Fixed navigation bar with scroll-based styling  
-- Responsive hamburger menu for mobile view  
 - Smooth scrolling behavior  
 - Hero section with call-to-action buttons  
 - Animated feature cards  
