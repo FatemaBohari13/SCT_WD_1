@@ -22,10 +22,10 @@ The landing page demonstrates clean layout structuring, smooth animations, and c
 
 
 ## 🌐 Live Demo  
-https://FatemaBohari13.github.io/SC_WD_1/
+https://FatemaBohari13.github.io/SCT_WD_1/
 
 ## 📂 Repository Link  
-https://github.com/FatemaBohari13/SC_WD_1  
+https://github.com/FatemaBohari13/SCT_WD_1  
 
 ## 🎯 Learning Outcomes  
 - Developed structured and semantic HTML layouts  
